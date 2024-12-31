@@ -11,6 +11,7 @@
 
 ## 🚀 Projects
 - **Project Name**: Portfolio
+- **Project Name**: Bad Banking
 
 ## 🛠️ Technologies
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript, React JS
