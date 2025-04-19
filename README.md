@@ -71,7 +71,7 @@
 ## 📫 Contact Me
 - 📧 **Email**: dhineshkumar111202@gmail.com  
 - 🔗 **LinkedIn**: [Dhinesh Kumar](https://www.linkedin.com/in/dhineshkumar45/)  
-- 💻 <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white&style=flat-square" /> [HackerRank](https://www.hackerrank.com/profile/dhineshkumar1111)
+- 💻 <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=HackerRank&logoColor=white&style=flat-square" /> [HackerRank](https://www.hackerrank.com/profile/msdhinesh45)
 
 ---
 
