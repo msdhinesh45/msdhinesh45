@@ -56,13 +56,13 @@
 ---
 
 ## 🚀 Projects
-- 💼 **[Portfolio Website](https://msdhinesh45.github.io/)**  
-- 🏦 **[Bad Banking](https://msdhinesh45.github.io/Banking_project/)**
+- 💼 **[Portfolio Website](https://msdhinesh45.github.io/Portfolio-website/)**  
+- 🏦 **[Bad Banking](https://banking-app-fg63.onrender.com/)**
 
 ---
 
 ## 🏆 Achievements
-- 👨‍💼 Internship Team Leader (Senchola)  
+- 👨‍💼 Internship: Frontend developer and Team Leader at Senchola  
 - 🎖 1st Prize in Web Development – Artifact Event  
 - 🧠 2nd Prize in Techton Quiz  
 
@@ -76,8 +76,8 @@
 ---
 
 ## 🎉 Fun Facts
-- I love coding challenges!  
-- Avid reader of tech blogs and articles.  
+- 🧑‍🏫 Teaching my friends code feels just as fun as writing it.
+- 🌙 Most of my best ideas come after midnight — yes, I’m a night owl developer!
 
 ---
 
@@ -102,7 +102,8 @@
 
 ---
 
-## ✍️ Dev Quote of the Day
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+## ✍️ Dev Quote of the Day  
+<p align="center" style="font-size: 18px;">
+  <em>💬 "Hey brother/sister, only the first step is hard. But after that, every step becomes harder and climbs on top of you." 💡</em><br/>
+  — <strong>© Dhinesh Kumar Murugesan</strong> 💙✨
 </p>
