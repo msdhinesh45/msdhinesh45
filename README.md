@@ -11,6 +11,8 @@
 ## 👋 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" width="270" alt="Code Animation" />
+<img src="https://komarev.com/ghpvc/?username=msdhinesh45&label=Profile%20Hits&color=fc5c7d&style=flat-square" alt="Dhinesh Kumar" />
+
 
 - 🎓 MSc CS Student  
 - 💻 Frontend Developer (HTML, CSS, Bootstrap, JavaScript, React JS, Next JS)  
