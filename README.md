@@ -101,7 +101,6 @@
 ---
 ### 🐍 Contribution snake
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msdhinesh45&" alt="dhinesh" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msdhinesh45&show_icons=true&locale=en&layout=compact" alt="dhinesh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msdhinesh45&show_icons=true&locale=en" alt="dhinesh" /></p>
