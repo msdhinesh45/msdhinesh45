@@ -11,8 +11,6 @@
 ## 👋 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif" width="270" alt="Code Animation" />
-<img src="https://komarev.com/ghpvc/?username=msdhinesh45&label=Profile%20Views&color=fc5c7d&style=flat-square" alt="Dhinesh Kumar" />
-
 
 - 🎓 MSc CS Student  
 - 💻 Frontend Developer (HTML, CSS, Bootstrap, JavaScript, React JS, Next JS)  
@@ -21,6 +19,11 @@
 - 🛠 Internship Role: Team Leader and Frontend Developer at Senchola  
 - 🏅 Artifact Event - 1st Prize in Web Development  
 - 🧠 Techton Quiz - 2nd Prize  
+
+---
+### 👀 Visitor Info  
+
+  [![Dhinesh Kumar profile views](https://u8views.com/api/v1/github/profiles/141849208/views/day-week-month-total-count.svg)](https://u8views.com/github/msdhinesh45)
 
 ---
 
@@ -96,6 +99,14 @@
 </p>
 
 ---
+### 🐍 Contribution snake
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msdhinesh45&" alt="dhinesh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msdhinesh45&show_icons=true&locale=en&layout=compact" alt="dhinesh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msdhinesh45&show_icons=true&locale=en" alt="dhinesh" /></p>
+
+
 
 ## 🐍 Snake Eating My Contribution
 <p align="center">
@@ -103,6 +114,7 @@
 </p>
 
 ---
+
 
 ## ✍️ Dev Quote of the Day  
 <p align="center" style="font-size: 18px;">
